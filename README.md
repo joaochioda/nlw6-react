@@ -14,11 +14,11 @@
 </p>
 
 <h4 align="center">
-  <p>Web App to avoid fadigue.</p>
+  <p>Web App to chat in rooms.</p>
   
-  <p>This project helps devlopers to make exercises every 30 minutes</p>
+  <p>This project allow people make questions and answered in realtime</p>
   
-  <p>Made with NextJs</p>
+  <p>To be able to do that was used Real Time Firebase</p>
 
 </h4>
 
