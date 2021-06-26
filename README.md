@@ -58,7 +58,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/joaochioda/rockttutorial
+$ git clone https://github.com/joaochioda/nlw6-react
 
 # Install dependencies
 $ npm install
